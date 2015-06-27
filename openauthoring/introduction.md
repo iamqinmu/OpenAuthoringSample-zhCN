@@ -3,11 +3,16 @@ ms.ContentId: FDC2CA2C-94E0-462C-A87F-AD58E30CDFCC
 ms.TocTitle: Introduction
 ms.topic: Introduction
 
+#zh-CN Introduction
 
-# Introduction
+zh-CN Open Authoring is a documentation work-flow which enables content owners, including traditional content technical writers and engineers, to collaboratively author the documentation in Git and get published to MSDN.
 
-Open Authoring is a documentation work-flow which enables content owners, including traditional content technical writers and engineers, to collaboratively author the documentation in Git and get published to MSDN.
+zh-CN Coming soon!!!!!
 
-Coming soon!!!!!
+zh-CN GitHub Localization is coming!!!!!!
 
-Localization is coming!!!!!
+zh-CN Let's start!
+
+zh-CN Localization configure is ready!
+
+
