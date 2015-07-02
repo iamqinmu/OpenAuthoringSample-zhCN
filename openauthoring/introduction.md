@@ -16,6 +16,3 @@ Let's start!
 qimu Localization configure is ready!! zh-CN
 
 
-onfigure is ready!
-
-
