@@ -15,6 +15,6 @@ Let's start!
 
 Localization configure is ready!!
 
-I am Qin Mu!
+zh-CN I am Qin Mu!
 
 
