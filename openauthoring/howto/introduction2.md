@@ -16,4 +16,6 @@ Let's start!
 
 Localization configure is ready!!
 
-I am Qin Mu!
+I am Qin Mu 2!
+
+Move to HowTo folder!

@@ -219,4 +219,4 @@ You and your colleagues discuss the content. You can continue to push changes to
 **Important - If your pull request is to master or releases/live:**
 
  * After you merge your pull request, don't delete the source branch until after you have confirmed the build succeeded:
- * If you find errors, fix them, and then create another pull request to merge the fixes.
+ * If you find errors, fix them, and then create another pull request to merge the fixes!
